@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css"/>
+
+    <title>Meu IMC</title>
+</head>
+<body>
+    <img src="./5971179.jpg" alt="mulher treinando">
+    <div id="calculo">
+        <h1>Calcule seu IMC</h1>
+        <div class="infor">
+            <label for="input-weight">Seu peso (kg):</label></br>  
+            <input id="input-weight" type="number" value="49" step="0.1"/>
+        </div>
+
+        <div class="infor">
+            <label for="input-height">Sua altura (m):</label></br>
+            <input id="input-height" type="number" value="1.65" step="0.01"/>
+        </div>
+
+        <div class="botao">
+            <button id="button-calculate-imc">Calcular IMC</button>
+        </div>
+        
+        <div class="result"><p>O seu IMC é <strong id="imc-result"></strong></p></div>
+        <div class="result"><p>Você está <strong id="imc-grau"></strong></p></div>
+       
+
+        
+        <script defer src="./script.js"></script>
+    </div>
+    
+</body>
+</html>
