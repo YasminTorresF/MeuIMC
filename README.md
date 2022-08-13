@@ -9,36 +9,37 @@
 
 O projeto tem como objetivo calcular o IMC da pessoa e informar o seu status automaticamente.
 
-	### Funcionalidades
+### Funcionalidades
 
-	[x]Calcular o IMC (Índice de massa corpórea)
-	[x]Informar o status conforme o IMC, podendo ser 'Muito 	abaixo do peso', 'Abaixo do peso', 'Peso normal', 'Acima 	do peso', 'Obesidade grau I', 'Obesidade grau II' e 	'Obesidade grau III'.    
-	[]Informar peso ideal para o usuário.
+[x]Calcular o IMC (Índice de massa corpórea)
+[x]Informar o status conforme o IMC, podendo ser: 
+		-'Muito abaixo do peso'
+		-'Abaixo do peso'
+		-'Peso normal'
+		-'Acima do peso'
+		-'Obesidade grau I'
+		-'Obesidade grau II'
+		-'Obesidade grau III'.    
+[]Informar peso ideal para o usuário considerando a altura dele.
+[]Implementar a responsividade para smartphone e tablet.
 
 
 ## :hammer_and_wrench:  Tecnologias utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML5;
+- CSS3;
+- JavaScript;
 
 
-## :pencil2: Layout
-![imagem](caminho do arquivo na pasta)
+## Layout
+![print](./calculando.gif)
 
-	###:file_folder: Estrutura de arquivos
 
-- README.md
-- index.html
-- 5971179.jpg
-- style.css
-- script.js
-
-	### Fontes
+### :pencil2: Fontes
 
 - 
 
-### Cores
+	### :art: Cores
 
 -
 
